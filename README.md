@@ -3,7 +3,7 @@
 A simple, clean, and well-structured Banking System created using **Object-Oriented Programming (OOP) in C++**.  
 This project includes **file handling, interest calculation, transaction history, polymorphism, inheritance**, and a **menu-driven interface**.
 
-## 🚀 Features
+##  Features
 
 ###  Create Accounts  
 - Savings Account (3% interest)  
